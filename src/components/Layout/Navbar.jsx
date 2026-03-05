@@ -1,18 +1,11 @@
 function Navbar() {
-  return (
-    <header>
-      <nav>
-        <h2>Tours Medellín</h2>
-        <ul>
-          <li>
-            <a href=""></a>
-          </li>
-          <li>Tours</li>
-          <li>Contacto</li>
-        </ul>
-      </nav>
-    </header>
-  )
+    return (
+        <nav className="nav">
+            <button className="nav-btn">¿Quiénes somos?</button>
+            <button className="nav-btn">Servicios</button>
+            <button className="nav-btn">Contacto</button>
+        </nav>
+    )
 }
 
 export default Navbar
