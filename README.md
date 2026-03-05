@@ -61,6 +61,7 @@ src/
 ## Instalación y Ejecución
 
 ### Requisitos
+- react-router-dom
 - Node.js 18 o superior
 - npm 
 - Git
@@ -76,6 +77,9 @@ cd nombre-del-proyecto
 
 # Instalar dependencias
 npm install
+npm react-router-dom
+
+
 
 # Ejecutar servidor de desarrollo
 npm run dev

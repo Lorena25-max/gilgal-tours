@@ -1,12 +1,11 @@
-import TourCard from "../components/tours/TourCard.jsx";
+import guatape from "../../assets/images/guatape.jfif";
+import comuna from "../../assets/images/comuna.jfif";
+import cafe from "../../assets/images/cafe.jfif";
+import jardin from"../../assets/images/jardin.jfif";
+import centromedellin from "../../assets/images/centromedellin.jfif";
+import santafeantioquia from "../../assets/images/santafeantioquia.jfif";
 
-import guatape from "../assets/images/guatape.jfif";
-import comuna from "../assets/images/comuna.jfif";
-import cafe from "../assets/images/cafe.jfif";
-import jardin from"../assets/images/jardin.jfif";
-import centromedellin from "../assets/images/centromedellin.jfif";
-import santafeantioquia from "../assets/images/santafeantioquia.jfif";
-
+import TourCard from "./TourCard.jsx";
 
 function Tours() {
 
